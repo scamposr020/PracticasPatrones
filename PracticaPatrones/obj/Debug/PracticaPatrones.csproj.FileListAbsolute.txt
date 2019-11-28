@@ -1,0 +1,7 @@
+C:\Users\cr270\source\repos\PracticaPatrones\PracticaPatrones\bin\Debug\PracticaPatrones.exe.config
+C:\Users\cr270\source\repos\PracticaPatrones\PracticaPatrones\bin\Debug\PracticaPatrones.exe
+C:\Users\cr270\source\repos\PracticaPatrones\PracticaPatrones\bin\Debug\PracticaPatrones.pdb
+C:\Users\cr270\source\repos\PracticaPatrones\PracticaPatrones\obj\Debug\PracticaPatrones.csprojAssemblyReference.cache
+C:\Users\cr270\source\repos\PracticaPatrones\PracticaPatrones\obj\Debug\PracticaPatrones.csproj.CoreCompileInputs.cache
+C:\Users\cr270\source\repos\PracticaPatrones\PracticaPatrones\obj\Debug\PracticaPatrones.exe
+C:\Users\cr270\source\repos\PracticaPatrones\PracticaPatrones\obj\Debug\PracticaPatrones.pdb
